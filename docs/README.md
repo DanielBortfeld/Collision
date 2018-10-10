@@ -1,4 +1,4 @@
-[Back to Main Page](https://ogoxhammerschild.github.io/)
+[Back to Main Page](https://danielbortfeld.github.io/)
 
 # Content    
     
@@ -213,8 +213,8 @@ namespace MonoGamePortal3Practise
 
 Further pages:    
 
-* [Etos Videos](https://ogoxhammerschild.github.io/Etos/)    
-* [Pathfinding in the Console (C++)](https://ogoxhammerschild.github.io/Console-Pathfinding/)    
-* [Dynamic Delegate (C++)](https://ogoxhammerschild.github.io/DynamicDelegate/)     
+* [Etos Videos](https://danielbortfeld.github.io/Etos/)    
+* [Pathfinding in the Console (C++)](https://danielbortfeld.github.io/Console-Pathfinding/)    
+* [Dynamic Delegate (C++)](https://danielbortfeld.github.io/DynamicDelegate/)     
 
 ***    
